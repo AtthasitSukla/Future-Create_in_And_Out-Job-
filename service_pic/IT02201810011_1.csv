@@ -1,0 +1,7 @@
+Ordering Plant,Issue No,Delivery order date(Year:YYYY),Delivery order date(Month:MM),Delivery order date(Date:DD),Delivery order date(Hour:hh),Delivery order date(Minute:mm),Supplier,Depot,Delivery Place,Unloading Unit,Parts No,Process code,Parts Name,Delivery Qty,SNEP(Package),Number of Boxes,Production Controller,IN/OUT,Delivery Order Date(Year:YYYY),Delivery Order Date(Month:MM),Delivery Order Date(Date:DD),Delivery Order Date(Hour:hh),Delivery Order Date(Minute:mm)
+2,EMB0010,2018,11,1,8,0,1BQ4,SC,EEK,1,641305JU0A4A,1T403,"HOODLEDGE ASSY-LWR,R",9,9,1,XH,B,2018,11,1,8,0
+2,EMB0007,2018,10,31,8,0,1BQ4,SC,EEK,1,641305JU0A4A,1T422,"HOODLEDGE ASSY-LWR,R",11,11,1,UH,B,2018,10,31,8,0
+2,EMB0011,2018,11,1,8,0,1BQ4,SC,EEK,1,641305JU0B4A,1T403,"HOODLEDGE ASSY-LWR,R",3,3,1,XH,B,2018,11,1,8,0
+2,EMB0008,2018,10,31,8,0,1BQ4,SC,EEK,1,641305JU0B4A,1T422,"HOODLEDGE ASSY-LWR,R",6,6,1,UH,B,2018,10,31,8,0
+2,EMB0012,2018,11,1,8,0,1BQ4,SC,EEK,1,641315JU0A4A,1T403,"HOODLEDGE ASSY-LWR,L",11,11,1,XH,B,2018,11,1,8,0
+2,EMB0009,2018,10,31,8,0,1BQ4,SC,EEK,1,641315JU0A4A,1T422,"HOODLEDGE ASSY-LWR,L",16,16,1,UH,B,2018,10,31,8,0
